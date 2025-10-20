@@ -1,0 +1,2 @@
+$ grep "fix" commits.txt 
+e0dc3b6 fix change message
