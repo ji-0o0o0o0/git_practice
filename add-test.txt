@@ -1,1 +1,2 @@
-git add test 입니다.
+git add test 입니다
+확인 부탁드립니다..
